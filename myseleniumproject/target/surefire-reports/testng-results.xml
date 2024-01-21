@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-21T23:39:22Z" name="test.com.GoogleSearchTest" finished-at="2024-01-21T23:39:53Z" duration-ms="30244">
+    <groups>
+    </groups>
+    <test started-at="2024-01-21T23:39:22Z" name="Command line test" finished-at="2024-01-21T23:39:53Z" duration-ms="30244">
+      <class name="test.com.GoogleSearchTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:test.com.GoogleSearchTest@5bb21b69]" started-at="2024-01-21T17:39:22Z" name="setUpClass" finished-at="2024-01-21T17:39:22Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.com.GoogleSearchTest@5bb21b69]" started-at="2024-01-21T17:39:22Z" name="setUpMethod" finished-at="2024-01-21T17:39:23Z" duration-ms="1008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testFacebook()[pri:0, instance:test.com.GoogleSearchTest@5bb21b69]" started-at="2024-01-21T17:39:23Z" name="testFacebook" finished-at="2024-01-21T17:39:53Z" duration-ms="29217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFacebook -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:test.com.GoogleSearchTest@5bb21b69]" started-at="2024-01-21T17:39:53Z" name="tearDownClass" finished-at="2024-01-21T17:39:53Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.com.GoogleSearchTest@5bb21b69]" started-at="2024-01-21T17:39:53Z" name="tearDownMethod" finished-at="2024-01-21T17:39:53Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- test.com.GoogleSearchTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.com.GoogleSearchTest -->
+</testng-results>
